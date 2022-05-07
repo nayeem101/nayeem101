@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/najmul-islam-nayeem-575081164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najmul-islam-nayeem-575081164" height="30" width="40" /></a>
-<a href="https://fb.com/nayeemsuchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayeems101" height="30" width="40" /></a>
+<a href="https://fb.com/nayeems101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.com/nayeems101" height="30" width="40" /></a>
 <a href="https://twitter.com/s_nayeem101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_nayeem101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nayeems101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nayeems101" height="30" width="40" /></a>
 <a href="https://codepen.io/nayeem101-the-selector" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nayeem101-the-selector" height="30" width="40" /></a>
@@ -37,6 +37,7 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://material.angular.io/" target="_blank" rel="noreferrer"> <img src="https://material.angular.io/assets/img/homepage/angular-white-transparent.svg" alt="Angular Material" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+<a href=https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://rxjs.dev/assets/images/logos/Rx_Logo_S.png" alt="RxJS" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 </p>
