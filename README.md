@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! Nayeem Here.</h1>
-<h3 align="center">Apprentice Web Developer. Loves 💻programming, 🗺️travelling and 🎮gaming.</h3>
+<h3 align="center">Frontend Web Developer. Loves 💻programming, 🗺️travelling and 🎮gaming.</h3>
 
 <p align="left"> <a href="https://twitter.com/s_nayeem101" target="blank"><img src="https://img.shields.io/twitter/follow/s_nayeem101?logo=twitter&style=for-the-badge" alt="s_nayeem101" /></a> </p>
 
